@@ -3,6 +3,7 @@
 Click [here](http://97960010f4b2.ngrok.io) if it takes too much time.
 Last Update: 2020/05/16
 
+<!--
 <html lang="en">                                                                
   <head>                                                                      
     <meta charset="utf-8">
@@ -10,3 +11,4 @@ Last Update: 2020/05/16
     <link rel="canonical" href="http://97960010f4b2.ngrok.io" />                    
   </head>
 </html>
+-->
