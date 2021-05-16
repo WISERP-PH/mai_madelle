@@ -2,7 +2,6 @@
 ### This will redirect in few seconds
 Click [here](http://97960010f4b2.ngrok.io) if it takes too much time.
 
-```
 <html lang="en">                                                                
   <head>                                                                      
     <meta charset="utf-8"/>
@@ -10,4 +9,3 @@ Click [here](http://97960010f4b2.ngrok.io) if it takes too much time.
     <link rel="canonical" href="http://97960010f4b2.ngrok.io" />                    
   </head>
 </html>
-```
